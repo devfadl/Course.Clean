@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Clean.Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.Clean.Presistence", "src\Core\Infrastucture\Course.Clean.Presistence\Course.Clean.Presistence.csproj", "{1DB0B975-13D6-4255-AB03-36BAA5DEF4F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cource.Clean.Infrastructure", "src\Core\Infrastucture\Cource.Clean.Infrastructure\Cource.Clean.Infrastructure.csproj", "{652DBAB7-631D-4263-825B-8F654264A4F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{1DB0B975-13D6-4255-AB03-36BAA5DEF4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DB0B975-13D6-4255-AB03-36BAA5DEF4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DB0B975-13D6-4255-AB03-36BAA5DEF4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652DBAB7-631D-4263-825B-8F654264A4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652DBAB7-631D-4263-825B-8F654264A4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652DBAB7-631D-4263-825B-8F654264A4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652DBAB7-631D-4263-825B-8F654264A4F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{E71DE7F8-2351-40DD-AEA3-5E2E1F1A5F21} = {CF313989-9266-43CD-9169-1454B8769E53}
 		{F8CCF753-BA96-483C-82F8-C2338DAE5E63} = {CF313989-9266-43CD-9169-1454B8769E53}
 		{1DB0B975-13D6-4255-AB03-36BAA5DEF4F3} = {DFA7AD4C-6544-4382-82D6-EF4C7FBD4011}
+		{652DBAB7-631D-4263-825B-8F654264A4F6} = {DFA7AD4C-6544-4382-82D6-EF4C7FBD4011}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4C0D0BED-955A-4C2E-B529-4FB9235C9A83}
